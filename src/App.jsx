@@ -86,7 +86,7 @@ const App = () => {
       subHeading:"Cybersecurity & Ethical hacking and have been key in making sure that your data online",
       postDate:"27 December 2022",
       category:"Cyber Security",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact-1536x480.jpg"
+      image:"https://redsquid.co.uk/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHBzJTNBJTJGJTJGcmVkc3F1aWQuY28udWslMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRjIwMjMlMkYwMyUyRkhvdy1Uby1Qcm9tb3RlLUN5YmVyLVNlY3VyaXR5LUF3YXJlbmVzcy0xLmpwZyZjYWNoZU1hcmtlcj0xNjgwMDk1MjExLTM2NzA0MCZ0b2tlbj00YTY1MjM2ODNlODZiZDA3.q.jpg"
     },
     {
       heading:"Software Developer vs Software Engineer: Who is More Important in 2024?",
