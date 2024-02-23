@@ -1,0 +1,17 @@
+.nav-link{
+  font-size: large;
+  font-weight: 700;
+  margin: 0px 10px;
+}
+
+.nav-link:hover,.nav-link.active{
+  color: rgb(68, 227, 68)! important;
+}
+
+
+@media screen and (min-width:640px) {
+  .nav-link:hover,.nav-link.active{
+    color: rgb(68, 227, 68)! important;
+    border-bottom: 2px solid rgb(68, 227, 68);
+  }
+}
