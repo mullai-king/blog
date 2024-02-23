@@ -86,7 +86,7 @@ const App = () => {
       subHeading:"Cybersecurity & Ethical hacking and have been key in making sure that your data online",
       postDate:"27 December 2022",
       category:"Cyber Security",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png"
+      image:"https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact-1536x480.jpg"
     },
     {
       heading:"Software Developer vs Software Engineer: Who is More Important in 2024?",
