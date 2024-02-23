@@ -12,7 +12,7 @@ const Card = ({item,index}) => {
         </div>
         <hr />
         <div class="p-1">
-          <p>{item.postDate}</p>
+          <p class="text-muted">{item.postDate}</p>
         </div>
       </div>
     </div>
